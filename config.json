@@ -1,5 +1,5 @@
 {
-    "api_key": "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",
+    "api_key": "YOUR_API_KEY",
     "system_prompt": "You are a helpful assistant that summarizes text. Finally arrange your responses in table",
     "user_prompt": "Summarize the following text, add your own understanding, then finally use a table to illustrate: "
 }
