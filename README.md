@@ -11,7 +11,7 @@ FeatherAI is designed for those who prioritize speed and simplicity. Through HTM
 1. ```pip install -r requirements.txt```
 2. Setting up the ```config.json```. Please use your own API key.
 3. Copy something to your clipboard.
-4. Run the script (If you are using the Macro, I suggest running the bat/sh script, as it can automatically hide the cmd).
+4. Run the script (If you are using the Macro, I suggest running the **bat/bash** script, as it can automatically hide the **terminal**).
 5. Done.
 6. Optional: Make a RAM drive and put everything into it.
 
@@ -28,3 +28,4 @@ My father taught me:``Son, if you don't learn to teamwork with the others, you w
 This is what I humbly believe in, and hold onto all the time.
 
 I welcome contributions from all programmers who share the passion for building fast and efficient AI solutions. If you're interested in contributing to FeatherAI, please feel free to reach out to me!
+email: kachunchan.a@gmail.com
