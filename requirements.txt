@@ -1,0 +1,5 @@
+pyperclip
+beautifulsoup4
+Markdown
+groq
+requests
