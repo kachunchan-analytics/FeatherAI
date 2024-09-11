@@ -1,5 +1,5 @@
 # FeatherAI: Lightweight AI for Speed Demons
-FeatherAI is designed for those who prioritize speed and simplicity. We believe in the power of HTML for delivering fast and efficient LLM responses.
+FeatherAI is designed for those who prioritize speed and simplicity. Through HTML, I wanna deliver fast and efficient LLM responses.
 
 ## 🚀 Core Principles:
 
