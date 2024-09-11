@@ -59,7 +59,7 @@ def generate_html_content(markdowned_responses):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FeatherAI Responses</title>
+    <title>FeatherLiteAI Responses</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/turndown@7.1.1/dist/turndown.min.js"></script>
     <style>
@@ -196,7 +196,7 @@ def generate_html_content(markdowned_responses):
     </style>
 </head>
 <body>
-    <div style="background-color: #2c3e50; color: #ffffff; padding: 20px; text-align: center; font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">FeatherAI responses</div>
+    <div style="background-color: #2c3e50; color: #ffffff; padding: 20px; text-align: center; font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">FeatherLiteAI responses</div>
     <div class='textarea-container'>
         <textarea id="arbitraryInput" placeholder="Type your augmented user prompt here..."></textarea>
     </div>
@@ -275,11 +275,11 @@ def generate_html_content(markdowned_responses):
 </html>
 """
 def generate_html(html_content):
-    with open("./historical_queries/featherai_responses.html", 'w', encoding='utf-8') as f:
+    with open("./historical_queries/featherliteai_responses.html", 'w', encoding='utf-8') as f:
         f.write(html_content)
 def open_html():
     cwd = os.getcwd()
-    os.startfile(f"{cwd}/historical_queries/featherai_responses.html")
+    os.startfile(f"{cwd}/historical_queries/featherliteai_responses.html")
 
 if __name__ == "__main__":
     config = loading_config()
