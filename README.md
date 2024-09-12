@@ -28,4 +28,4 @@ My father taught me:``Son, if you don't learn to teamwork with the others, you w
 This is what I humbly believe in, and hold onto all the time.
 
 I welcome contributions from all programmers who share the passion for building fast and efficient AI solutions. If you're interested in contributing to FeatherAI, please feel free to reach out to me! <br>
-email: kachunchan.a@gmail.com
+Email: kachunchan.a@gmail.com

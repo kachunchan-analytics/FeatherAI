@@ -198,7 +198,7 @@ def generate_html_content(markdowned_responses):
 <body>
     <div style="background-color: #2c3e50; color: #ffffff; padding: 20px; text-align: center; font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">FeatherLiteAI responses</div>
     <div class='textarea-container'>
-        <textarea id="arbitraryInput" placeholder="Type your augmented user prompt here..."></textarea>
+        <textarea id="arbitraryInput" placeholder="Type your augmented user prompt here...Then Click the button Copy (Arbitrary) below"></textarea>
     </div>
     <div class='container'>
         <div class="button-container">
