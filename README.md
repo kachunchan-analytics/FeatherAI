@@ -17,8 +17,8 @@ FeatherLiteAI is designed for those who prioritize speed and simplicity. Through
 ![Example Image](./demo.png)
 ## ⚙️ Getting Started with Macro (Optional):
 
-1. Install your chosen macro software: **Logitech Options+** is a great option, but feel free to explore other alternatives.
-2. Create a macro: Within your macro software, create a new macro that executes your desired **bat/bash** scripts.
+
+1. Create a macro: Within your macro software, create a new macro that executes your desired **bat/bash** scripts.
 2. Assign a shortcut: Assign a keyboard shortcut to your macro for easy access. (e.g. Ctrl + Shift + Alt + 1)
 3. Trigger your AI: With a single execution of your assigned shortcut, your Python script will run, leveraging FeatherLiteAI's capabilities.
 
