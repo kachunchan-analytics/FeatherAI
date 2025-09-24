@@ -1,4 +1,5 @@
 # FeatherLiteAI: Lightweight AI for Speed Demons
+![Example Image](./demo.png)
 FeatherLiteAI is designed for those who prioritize speed and simplicity. Through HTML, I wanna deliver fast and efficient LLM responses.
 
 ## 🚀 Core Principles:
@@ -14,7 +15,7 @@ FeatherLiteAI is designed for those who prioritize speed and simplicity. Through
 4. Run the script (If you are using the Macro, I suggest running the **bat/bash** script, as it can automatically hide the **terminal**).
 5. Done.
 6. Optional: Make a RAM drive and put everything into it.
-![Example Image](./demo.png)
+
 ## ⚙️ Getting Started with Macro (Optional):
 
 
